@@ -10,8 +10,6 @@
 
 ## My skills 💻
 
-Add your skills in the list below, if you don't know the name of the badge, you can find it on repository [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
-
 ### Languages
 
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/standards/webdesign/htmlcss)
