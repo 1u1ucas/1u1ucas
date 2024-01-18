@@ -1,17 +1,15 @@
-- Hi, i'm `<your name>`, i'm a french web developer 👋
+- Hi, i'm Lucas french web developer 👋
 - `<explain what do you love. Ex: I love front-end development and i'm interested by back-end development also👨‍💻>`
 - On my GitHub profile, I have school projects and personal projects in different technologies
 
 ## My stats⚡️
-
-Replace `<your-name>` in url by your `github username` if you want to display your Github Stats else remove this section
 <br/>
 <br/>
-![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=your-name&show_icons=true&theme=github_dark&count_private=true&line_height=28.5)
+![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=1u1ucas&show_icons=true&theme=github_dark&count_private=true&line_height=28.5)
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-name&layout=compact&langs_count=12&theme=github_dark&card_width=445)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1u1ucas&layout=compact&langs_count=12&theme=github_dark&card_width=445)
 <br/>
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ypur-name&layout=compact&langs_count=12&theme=github_dark)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=1u1ucas&layout=compact&langs_count=12&theme=github_dark)
 
 <br>
 
@@ -43,7 +41,6 @@ Add your skills in the list below, if you don't know the name of the badge, you 
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 ## Follow me 👉
-
-Replace `<your-linkedin-url>` by your `linkedin url` and `<your-gmail>` by your `gmail` if you want to display your social media else remove this section <br/>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Gmail](https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:<your-gmail>)
+<br/>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/lucas-lévêque-6179a82a2/))
+[![Gmail](https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:<lucasleveque17@gmail.com>)
