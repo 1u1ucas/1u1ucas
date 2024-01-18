@@ -38,6 +38,5 @@
 
 ## Follow me 👉
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/lucas-lévêque-6179a82a2/))
-
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/lucas-lévêque-6179a82a2/)) 
 [![Gmail](https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:<lucasleveque17@gmail.com>)
