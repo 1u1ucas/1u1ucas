@@ -21,6 +21,7 @@
 ### Frameworks
 
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![VueJS](https://img.shields.io/badge/vue-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getvue.com/)
 
 ### CMS
 
